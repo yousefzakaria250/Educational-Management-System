@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1656850954 source:f:\c++projects by code blocks\eductional management system\main.cpp
+	<iostream>
+	<string>
+	<process.h>
+	<cstring>
+	<windows.h>
+
